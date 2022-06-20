@@ -1,6 +1,13 @@
-# All projects for you with Laravel.
+# What is this ?
 
-This repository has all of my laravel-based open source projects.
+It's an example of how to write unit test for ecommerce site. You will see how to write a test for cart discount and test all functions.
 
-# Projects
-1. Open Shop - Open source eCommerce script.
+# Where should I check ? 
+
+Checkout in commit history.
+
+# How to run this test? 
+
+- clone this repo
+- setup laravel
+- run `artisan test` in terminal
