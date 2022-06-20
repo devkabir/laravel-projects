@@ -1,6 +1,33 @@
-# All projects for you with Laravel.
+<p align="center">
+<a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" height="50"></a>
+<a href="https://vuejs.org" target="_blank"><img src="https://vuejs.org/images/logo.png" height="40"></a>
+</p>
 
-This repository has all of my laravel-based open source projects.
 
-# Projects
-1. Open Shop - Open source eCommerce script.
+
+## About This Repository
+
+Newest Vue.js 3 version, introduced the new Composition API. You may ask, "What Makes the Composition API Better than the Options API?". In short answare, code sharing.
+
+Thanks to the Composition API we never have to use Mixins again. Mixins make it hard to determine where certain parts of logic are coming from inside a component that uses them.
+
+But this repo is written with Options API. So that you can compare difference between Composition API and Options API
+
+
+
+## Installation
+
+```console 
+git clone https://github.com/kabirkhyrul/laravel-vue-product-crud.git
+composer install
+cp .env.example .env
+npm install && npm run dev
+```
+
+update `.env` file
+
+```console
+php artisan key:generate
+php artisan migrate --seed
+```
+
