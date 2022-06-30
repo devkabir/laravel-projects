@@ -11,6 +11,6 @@ This repository has all of my laravel-based open source projects.
 1. [Vue3 CLI with Laravel.](https://github.com/devkabir/laravel-projects/tree/laravel-vue3-cli)
 1. [Vue3 composition API with Laravel.](https://github.com/devkabir/laravel-projects/tree/laravel-vue3-composition-api)
 1. [Vue3 option API with Laravel.](https://github.com/devkabir/laravel-projects/tree/laravel-vue-product-crud)
-1. [Single-page application written in Laravel and Vue.](https://github.com/devkabir/laravel-projects/tree/laravel-vue-spa)
+2. [API with File upload option](https://github.com/devkabir/laravel-projects/tree/laravel-api-with-file-upload)
 
 Many more are on the way, so keep an eye out for new branches. Happy coding :tada: :tada:
