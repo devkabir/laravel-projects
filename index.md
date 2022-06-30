@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+# All projects for you with Laravel.
 
-You can use the [editor on GitHub](https://github.com/devkabir/laravel-projects/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+This repository has all of my laravel-based open source projects.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Projects
+1. [Open Shop - eCommerce script.](https://github.com/devkabir/laravel-projects/tree/laravel-ecommerce)
+1. [Online MCQ Exam App.](https://github.com/devkabir/laravel-projects/tree/laravel-exam-app)
+1. [Laravel 8 API backend with JWT authentication.](https://github.com/devkabir/laravel-projects/tree/laravel-jwt-auth-for-api)
+1. [Comparison of render times for Paginate and Datatable.](https://github.com/devkabir/laravel-projects/tree/laravel-pagination-vs-datatables-performance)
+1. [Unit test for ecommerce.](https://github.com/devkabir/laravel-projects/tree/laravel-tdd-cart)
+1. [Vue3 CLI with Laravel.](https://github.com/devkabir/laravel-projects/tree/laravel-vue3-cli)
+1. [Vue3 composition API with Laravel.](https://github.com/devkabir/laravel-projects/tree/laravel-vue3-composition-api)
+1. [Vue3 option API with Laravel.](https://github.com/devkabir/laravel-projects/tree/laravel-vue-product-crud)
+2. [API with File upload option](https://github.com/devkabir/laravel-projects/tree/laravel-api-with-file-upload)
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/devkabir/laravel-projects/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Many more are on the way, so keep an eye out for new branches. Happy coding :tada: :tada:
