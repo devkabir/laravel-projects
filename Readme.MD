@@ -1,16 +1,21 @@
-# All projects for you with Laravel.
+# Laravel API with file upload
 
-This repository has all of my laravel-based open source projects.
+This is a wine collections that allows you to upload images and get images via REST API. The images are stored in the /public/wines folder. Also you can upload your profile picture. 
 
-# Projects
-1. [Open Shop - eCommerce script.](https://github.com/devkabir/laravel-projects/tree/laravel-ecommerce)
-1. [Online MCQ Exam App.](https://github.com/devkabir/laravel-projects/tree/laravel-exam-app)
-1. [Laravel 8 API backend with JWT authentication.](https://github.com/devkabir/laravel-projects/tree/laravel-jwt-auth-for-api)
-1. [Comparison of render times for Paginate and Datatable.](https://github.com/devkabir/laravel-projects/tree/laravel-pagination-vs-datatables-performance)
-1. [Unit test for ecommerce.](https://github.com/devkabir/laravel-projects/tree/laravel-tdd-cart)
-1. [Vue3 CLI with Laravel.](https://github.com/devkabir/laravel-projects/tree/laravel-vue3-cli)
-1. [Vue3 composition API with Laravel.](https://github.com/devkabir/laravel-projects/tree/laravel-vue3-composition-api)
-1. [Vue3 option API with Laravel.](https://github.com/devkabir/laravel-projects/tree/laravel-vue-product-crud)
-1. [Single-page application written in Laravel and Vue.](https://github.com/devkabir/laravel-projects/tree/laravel-vue-spa)
+Authentication and authorization is implemented. Auth process is handled by the [Laravel Sanctum](https://laravel.com/docs/9.x/sanctum#how-it-works) library.
 
-Many more are on the way, so keep an eye out for new branches. Happy coding :tada: :tada:
+## Package Dependencies
+- [API Documentation](https://github.com/rakutentech/laravel-request-docs)
+
+## Installation
+```bash
+composer install
+cp .env.example .env
+php artisan key:generate
+php artisan migrate
+```
+
+## Usage
+Go to the [API Documentation](/docs) to see how to use the API. 
+
+
